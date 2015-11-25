@@ -1,0 +1,12 @@
+ file = 'C:\Users\Abdul Hadi Shakir\Desktop\ML\Project\glass\inter.txt';
+ load(file);
+ im = draw_inter(inter_test);
+
+% file1 = 'C:\Users\Abdul Hadi Shakir\Desktop\ML\Project\glass\glass.train';
+% load(file1);
+% label = glass(:,size(glass,2));
+% 
+% file2 = 'C:\Users\Abdul Hadi Shakir\Desktop\ML\Project\glass\imp.txt';
+% load(file2);
+
+% im = draw_imp(imp,label);
